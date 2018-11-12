@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbhankrisgm%2Fodsb2014.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbhankrisgm%2Fodsb2014?ref=badge_shield)
+
 odsb2014
 ========
 
@@ -26,3 +28,7 @@ The `flu_statitics` and `flu_news` directories contain data download scripts tha
 in order to complete the workshop.  These can be run standalone, or by running `setup/download_data.sh`.
 The `flu_shots` directory contains a script for fetching data from the US Dept. HHS, but collection
 of this data is included as part of the series of notebooks.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbhankrisgm%2Fodsb2014.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbhankrisgm%2Fodsb2014?ref=badge_large)
